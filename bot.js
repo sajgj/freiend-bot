@@ -27,7 +27,7 @@ client.on("message", message => {
    message.react("😜")
   const embed = new Discord.RichEmbed()
       .setColor("RANDOM")
-      .addField("『Diamond Bot』 『اسم البوت』", true)
+      .addField("『Quietness Bot』 『اسم البوت』", true)
       
       .addField("『@Vemo |D̍͋E͗̐̂A̺̳D#8844 』", true)
       
@@ -1181,4 +1181,4 @@ client.on('message', message => {
 });
 
 
-client.login('التوكن اهنا');
+client.login('NTE0NTAyNjk3NDAwMDA4NzQx.DtXqxg.VZu-BYWOEe-K9uMd2noDo6kQXI0');
